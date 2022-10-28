@@ -1,0 +1,11 @@
+{
+    "name": "devramadanewis/bulk-image-resize",
+    "autoload": {
+        "psr-4": {
+            "Devramadanewis\\BulkImageResize\\": "src/"
+        }
+    },
+    "require": {
+        "imagine/imagine": "^1.3"
+    }
+}

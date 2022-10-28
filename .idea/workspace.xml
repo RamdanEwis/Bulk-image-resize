@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44b1db36-4bc0-44a9-b08d-0bcb7b503098" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/imagine/imagine" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2GlUIwPM0qFIixiFoBgTbW52U8D" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/oldPath" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oldPath" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44b1db36-4bc0-44a9-b08d-0bcb7b503098" name="Default Changelist" comment="" />
+      <created>1666966375509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666966375509</updated>
+      <workItem from="1666966378155" duration="3236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="707" y="351" width="495" height="412" key="NewPhpClassDialog" timestamp="1666967222627">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="707" y="351" width="495" height="412" key="NewPhpClassDialog/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1666967222627" />
+    <state x="755" y="475" width="399" height="164" key="NewPhpFileDialog" timestamp="1666962610327">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="755" y="475" width="399" height="164" key="NewPhpFileDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1666962610327" />
+    <state x="614" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1666966381070">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="614" y="381" key="com.intellij.ide.util.TipDialog/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1666966381070" />
+  </component>
+</project>
